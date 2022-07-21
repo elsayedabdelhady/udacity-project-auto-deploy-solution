@@ -1,9 +1,10 @@
 1. Public Url to GitHub repository  (not private) [URL01]:
-https://github.com/bendaniel10/udacity-project-auto-deploy-solution
-https://app.circleci.com/pipelines/github/bendaniel10/udacity-project-auto-deploy-solution
+https://github.com/elsayedabdelhady/udacity-project-auto-deploy-solution.git
+https://app.circleci.com/pipelines/github/elsayedabdelhady/udacity-project-auto-deploy-solution
+
 
 2. Public URL for your S3 Bucket (aka, your green candidate front-end) [URL02]:
-http://udapeople-prod-0ae3b3b.s3-website.eu-central-1.amazonaws.com
+http://udacity-project-auto-deploy-solution-basma.s3-website-us-east-1.amazonaws.com
 
 3. Public URL for your CloudFront distribution (aka, your blue production front-end) [URL03]:
 d2p9kieebem3cp.cloudfront.net
